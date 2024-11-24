@@ -1,0 +1,7 @@
+.x-btn-hover:hover{padding: 6px;}
+
+.x-btn-hover:hover{
+    background-color: #082131;
+    border-radius: 20px;
+    cursor: pointer;
+}

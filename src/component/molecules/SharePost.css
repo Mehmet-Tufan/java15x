@@ -1,0 +1,44 @@
+.x-new-post-avatar{
+    width: 40px;
+    height: 40px;  
+    border-radius: 40px;
+ }
+ 
+.x-new-post-commet{
+    
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    resize: none;
+}
+
+.x-new-post-btn-send{
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #1da1f2;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.x-new-post-btn-send:hover{
+    background-color: #0697f1;
+   
+}
+
+.x-new-post-bottom-line{
+    margin: 7px;
+    height: 1px;
+    background-color: #b2d5eb;
+}
+
+.x-new-post-icon{
+    margin: 0px;
+    margin-right: 20px;
+
+
+}
